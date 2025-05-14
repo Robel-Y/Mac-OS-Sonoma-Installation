@@ -1,4 +1,4 @@
-# Operating System Assignment – macOS Sonoma
+# Operating System Installation – macOS Sonoma
 
 This repository contains my Operating System course assignment focused on macOS Sonoma. It is divided into two main parts:
 
